@@ -33,7 +33,6 @@ int main() {
 	int next;
 
 	next = StartPage();
-	printf("%d", next);
 	switch (next) {
 		//단어장
 	case 1:
